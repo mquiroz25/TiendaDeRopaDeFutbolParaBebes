@@ -1,0 +1,17 @@
+.carousel-inner img {
+    margin: auto;
+  }
+
+  .carousel-control-next,
+  .carousel-control-prev {
+      filter: invert(100%);
+  }
+
+  .list-group-item{
+
+    background-color:rgb(57, 65, 102);
+  }
+
+  .list-group-item:hover { background-color: #3eccd1; }
+
+  .list-group-item:focus { background-color: #3eccd1; }
